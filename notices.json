@@ -1,0 +1,18 @@
+{
+  "notices": [
+    {
+      "id": "welcome-v0_6",
+      "title": "업데이트 소식을 여기서 받아보세요",
+      "body": "새 기능과 공지를 이 배너로 알려드릴게요.",
+      "detail": "myPaper가 점점 좋아지고 있어요.\n\n앞으로 업데이트 소식, 이벤트, 안내를 이 배너로 전해드릴게요. 배너를 누르면 이렇게 자세한 내용을 볼 수 있어요."
+    },
+    {
+      "id": "site-open",
+      "title": "myPaper 웹사이트 안내",
+      "body": "자세한 사용법을 웹에서 확인하세요.",
+      "link": "https://github.com/andy140733-cyber/myPaper-releases",
+      "startsAt": "2026-06-01",
+      "endsAt": "2026-12-31"
+    }
+  ]
+}
